@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Mobile offers will be updated soon</h1>   
+         <h1>This site is now on hold please try again</h1>   
 	 
 
     </section>    
